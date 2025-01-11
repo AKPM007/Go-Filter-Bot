@@ -7,8 +7,8 @@ services :
      startCommand: ./Go-Filter-Bot
      envVars :
        - key: MONGODB_URI
-         value : your-mongodb-uri
+         value : mongodb+srv://xblade1980:<db_password>@cluster0.jqcpu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
        - key: ADMINS
-         value: list-of-admins
+         value: 6354431214
        - key: BOT_TOKEN
-         value : your-bots-token
+         value : 7203340734:AAFx-u-EYh2vd81rBoVJ59u6TmvjDXnI2z4
