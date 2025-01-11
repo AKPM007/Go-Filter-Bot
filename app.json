@@ -13,15 +13,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "7203340734:AAFx-u-EYh2vd81rBoVJ59u6TmvjDXnI2z4"
         },
         "MONGODB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://xblade1980:<db_password>@cluster0.jqcpu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "ADMINS": {
             "description": "A List Ids of bot admins seperated by spaces.",
-            "value": ""
+            "value": "6354431214"
         }, 
         "AUTO_DELETE": {
             "description": "Time in minutes after which filter results are automatically deleted.",
